@@ -5,4 +5,5 @@ Today I Learned
 
 # 개인 공부
 
-TI250
+# Javascript
+[Array Method](https://www.notion.so/JS-Array-Method-cbfef9cf4daa4f179e30cfbd7d842ed3, "Array Method")
