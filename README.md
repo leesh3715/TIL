@@ -7,5 +7,5 @@ Today I Learned
 ## Javascript
 *[Array Method](https://www.notion.so/JS-Array-Method-cbfef9cf4daa4f179e30cfbd7d842ed3, "Array Method")
 
-</hr>
+<hr/>
 Markdown Reference(https://gist.github.com/ihoneymon/652be052a0727ad59601)
