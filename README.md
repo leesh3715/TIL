@@ -1,8 +1,7 @@
 # TIL
 <hr/>
-> Today I Learned / 공부하는 습관 들이기 
+> Today I Learned / 공부하는 습관 들이기  
 > 
->
 <hr/>
 
 # 업무 관련 공부
